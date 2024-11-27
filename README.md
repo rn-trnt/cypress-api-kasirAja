@@ -33,8 +33,6 @@ npx cypress open
 
 ## **Endpoint Tested**
 
-</br >
-
 The following endpoints are covered in this project:
 
 - /registration
@@ -60,8 +58,6 @@ The following endpoints are covered in this project:
 ---
 
 ## **Test Cases**
-
-</br >
 
 The test cases validate the following scenarios:
 
